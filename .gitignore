@@ -1,0 +1,12 @@
+.ccsproject
+.cproject
+.project
+*.xml
+targetConfigs/
+STM32F072RBTX_FLASH.ld
+.settings/
+.launches/
+Debug/
+.jxbrowser-data/
+.metadata/
+backup/

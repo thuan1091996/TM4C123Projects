@@ -1,0 +1,24 @@
+[submodule "OLED_SH1106"]
+	path = OLED_SH1106
+	url = https://github.com/thuan1091996/OLED_SH1106
+[submodule "Keypad4x4"]
+	path = Keypad4x4
+	url = https://github.com/thuan1091996/Keypad4x4
+[submodule "Line_Follower"]
+	path = Line_Follower
+	url = https://github.com/thuan1091996/Line_Follower
+[submodule "Mitsu_NRF24L01_Master"]
+	path = Mitsu_NRF24L01_Master
+	url = https://github.com/thuan1091996/Mitsu_NRF24L01_Master
+[submodule "Mitsu_NRF24L01_Slave"]
+	path = Mitsu_NRF24L01_Slave
+	url = https://github.com/thuan1091996/Mitsu_NRF24L01_Slave
+[submodule "Mobile_Robot"]
+	path = Mobile_Robot
+	url = https://github.com/thuan1091996/Mobile_Robot_TM4C_CCS
+[submodule "Template_Project"]
+	path = Template_Project
+	url = https://github.com/thuan1091996/Template_Project
+[submodule "TF_MINI_UART"]
+	path = TF_MINI_UART
+	url = https://github.com/thuan1091996/TF_MINI_UART

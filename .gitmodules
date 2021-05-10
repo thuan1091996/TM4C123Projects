@@ -22,3 +22,6 @@
 [submodule "TF_MINI_UART"]
 	path = TF_MINI_UART
 	url = https://github.com/thuan1091996/TF_MINI_UART
+[submodule "KIU"]
+	path = KIU
+	url = https://github.com/thuan1091996/KIU
